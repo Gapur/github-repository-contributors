@@ -20,7 +20,7 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://gkassym.netlify.app"><img src="https://avatars.githubusercontent.com/u/10502684?v=4?s=100" width="100px;" alt="Gapur Kassym"/><br /><sub><b>Gapur Kassym</b></sub></a><br /><a href="#plugin-Gapur" title="Plugin/utility libraries">🔌</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://gkassym.netlify.app"><img src="https://avatars.githubusercontent.com/u/10502684?v=4?s=100" width="100px;" alt="Gapur Kassym"/><br /><sub><b>Gapur Kassym</b></sub></a><br /><a href="#plugin-Gapur" title="Plugin/utility libraries">🔌</a> <a href="#content-Gapur" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
