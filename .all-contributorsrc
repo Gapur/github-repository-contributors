@@ -1,4 +1,8 @@
 {
+  "projectName": "github-repository-contributors",
+  "projectOwner": "Gapur",
+  "repoType": "github",
+  "repoHost": "https://github.com",
   "files": [
     "README.md"
   ],
@@ -18,9 +22,5 @@
     }
   ],
   "contributorsPerLine": 7,
-  "skipCi": true,
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "projectName": "github-repository-contributors",
-  "projectOwner": "Gapur"
+  "skipCi": true
 }
