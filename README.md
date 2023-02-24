@@ -1,7 +1,14 @@
+<p align="center">
+  <img src="https://github.com/Gapur/github-repository-contributors/blob/main/github-logo.gif" />
+</p>
+
 # Github Repository Contributors
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+This is a specification for recognizing contributors to an open-source project in a way that rewards every contribution, not just code.
 
 ## Contributors ✨
 
@@ -29,6 +36,3 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://allcontributors.org) specification.
-Contributions of any kind are welcome!
