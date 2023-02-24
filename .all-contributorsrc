@@ -12,7 +12,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/10502684?v=4",
       "profile": "https://gkassym.netlify.app",
       "contributions": [
-        "plugin"
+        "plugin",
+        "content"
       ]
     }
   ],
@@ -20,6 +21,6 @@
   "skipCi": true,
   "repoType": "github",
   "repoHost": "https://github.com",
-  "projectName": "repo-contributors",
+  "projectName": "github-repository-contributors",
   "projectOwner": "Gapur"
 }
