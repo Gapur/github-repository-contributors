@@ -8,6 +8,9 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+How to Add Github Contributors to README
+Give Recognition to These Wonderful Github Contributors
+
 If you want to make your project open source is a great idea because many people can support and suggest new ideas to improve it. A project created by a development team may be of lower quality than an open source project developed by thousands of developers around the world.
 
 Many people take their free time to contribute to your open source projects, so we must express our appreciation for every contribution. How can we reward them?
@@ -40,3 +43,15 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## Article on Medium
+
+How to Add Github Contributors to README
+
+## How to contribute?
+
+1. Fork this repo
+2. Clone your fork
+3. Code 🤓
+4. Test your changes
+5. Submit a PR!
