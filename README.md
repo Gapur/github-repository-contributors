@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Gapur/github-repository-contributors/blob/main/github-logo.gif" />
+  <img width="320" src="https://github.com/Gapur/github-repository-contributors/blob/main/github-logo.gif" />
 </p>
 
 # Github Repository Contributors
