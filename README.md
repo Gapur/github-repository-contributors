@@ -8,7 +8,11 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This is a specification for recognizing contributors to an open-source project in a way that rewards every contribution, not just code.
+If you want to make your project open source is a great idea because many people can support and suggest new ideas to improve it. A project created by a development team may be of lower quality than an open source project developed by thousands of developers around the world.
+
+Many people take their free time to contribute to your open source projects, so we must express our appreciation for every contribution. How can we reward them?
+
+We can do this with the [AllContributors Github App](https://allcontributors.org). This app will show all the contributors with the recognition in an amazing way in your Github README file.
 
 ## Contributors ✨
 
