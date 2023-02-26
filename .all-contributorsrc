@@ -19,6 +19,15 @@
         "plugin",
         "content"
       ]
+    },
+    {
+      "login": "cancit",
+      "name": "Can Çitoğlu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9624502?v=4",
+      "profile": "http://cancit.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
