@@ -8,7 +8,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This is a specification for recognizing contributors to an open-source project in a way that rewards every contribution, not just code.
+This is a specification for recognizing contributors to an open-source project in a way that rewards every contribution, not just code!
 
 ## Contributors ✨
 
