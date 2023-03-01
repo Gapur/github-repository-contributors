@@ -48,7 +48,7 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 
 ## Article on Medium
 
-How to Add Github Contributors to README
+[How to Add Github Contributors to README](https://github.com/Gapur/github-repository-contributors)
 
 ## How to contribute?
 
